@@ -1,4 +1,4 @@
 # New project
 
 This projet was created from local system
-Created by Sarthak Mittal
+Created by Sarthak Mittal.
